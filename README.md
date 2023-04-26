@@ -1,1 +1,2 @@
 # TagURIT
+TagURIT is an unofficial level loader and level compiler for the 2008 puzzle platformer [Tag: The Power of Paint](https://www.digipen.edu/showcase/student-games/tag-the-power-of-paint) and is being developed by the Tag speedrunning community (find us [here on Discord](https://discord.gg/zw3TUEJ))
